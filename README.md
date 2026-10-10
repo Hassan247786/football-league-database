@@ -1,6 +1,6 @@
 # Football League Database
 
-A PostgreSQL database for the Rockborne six-a-side football league, covering teams, players, groups, venues, fixtures, results, goals and cards.
+A PostgreSQL database for a six-a-side football league, covering teams, players, groups, venues, fixtures, results, goals and cards.
 
 ## Files
 
