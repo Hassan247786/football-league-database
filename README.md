@@ -1,6 +1,6 @@
 # Football League Database
 
-A PostgreSQL database for a six-a-side football league, covering teams, players, groups, venues, fixtures, results, goals and cards.
+A PostgreSQL database for a six-a-side football league, covering teams, players, groups, venues, fixtures, results, goals and cards. There are two documents attached to this project. The first is a complete overview of the data modelling part of the project, while the second includes implementation steps, the entity relationship diagram and a data dictionary. The data itself that we used throughout this project is contained within the CSV file attached (which itself was obtained from raw, uncleaned data). 
 
 ## Files
 
